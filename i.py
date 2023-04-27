@@ -5,9 +5,9 @@ from mastodon import Mastodon
 from PIL import Image, ImageDraw, ImageFilter
 
 # Ваши данные доступа к Mastodon
-client_id = 'fblBmBVe8D15nPVm9SBwpJRX6cg5ahKd4DNij2D2694'
-client_secret = 'Sstx6lr8tlfG7ZeFTRXxKtufeFYptGL7frzp4ytjpaU'
-access_token = 'Nowmkoi2nABMqpmInpNstCR5pvy0ulI9uf5GzcZN6sU'
+client_id = 'CLIENT_ID'
+client_secret = 'CLIENT_SECRET'
+access_token = 'ACCESS_TOKEN'
 base_url = 'https://mstdn.bronyfurry.com'
 
 mastodon = Mastodon(
