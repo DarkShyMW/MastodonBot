@@ -22,3 +22,6 @@ python i.py
 # FAQ:
 Q: How to change time to posting?
 A: At function main(), you can find time.sleep(9000), change params at () to your time. Time in seconds.
+
+# Galery:
+https://mstdn.bronyfurry.com/system/media_attachments/files/110/272/966/120/183/717/original/c7092ef21d4abcc4.png
